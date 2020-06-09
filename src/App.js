@@ -3,7 +3,10 @@ import Layout from './Layout/Layout';
 
 function App() {
     return (
-       <Layout/>
+      // <Layout/>
+        <div>
+        my name is leo
+        </div>
     );
 }
 
